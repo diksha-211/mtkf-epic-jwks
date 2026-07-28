@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "aerogenix-mtkf-epic-2026-07",
+      "n": "q6_9OAW8ke0IYqbG5Wn2ChK1zDwcdGJG1SXh7tpj8GaKj4GsPCOTQV7bqhz9FJK07u72G2GMWj2J-rzR8RsVrBr7Espg7_g0FuKQ3Zq2OOg9ZhA0_axR8M4ffGTGZjmo7yodp0osnL3RbKr4hZ4TYgWwjtXPgdTpISeiVKoLKdMzjZ2nLZbq7LbYGi_H7rf7_CSDQNr9KnR55L5R_FbhAePKpMf26CtROZDgu5tt4MaqRPRKoK56rWWsDbyUJF2jZLssRPIHvq6_n4WDV-yZ_OLePvd82p-SegfNp6rSHfePG857fWOvOv2RyYkXemmveUOjfZukc-kU6ps6qXxTPw",
+      "e": "AQAB"
+    }
+  ]
+}
